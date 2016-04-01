@@ -3,7 +3,7 @@
   <head>
     <title>200 days project</title>
    
-    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+    <link type="text/css" rel="stylesheet"/>
   </head>
   
   <body>
@@ -16,9 +16,8 @@
    
     <em><h3>Starting from April 12, I will begin my project and make a website every day for 200 days</h3></em>
      <ul>
-        <li>Hello</li>
-        <li></li>
-        <li></li>
+        <a href=""><li></li></a>
+        
      
     </ul>
   </body>
